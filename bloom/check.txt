@@ -1,0 +1,7 @@
+6
+foo
+hello
+world
+my
+name
+is
